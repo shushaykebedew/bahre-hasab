@@ -1,3 +1,4 @@
+import utils.session
 for i in range(3):  # Loop 3 times
     try:
         ዓመተ_ምሕረት = int(input("ዝደለይዎ ዓመተ-ምህረት የእትው: "))

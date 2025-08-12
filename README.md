@@ -21,4 +21,16 @@ The program outputs results in **Tigrinya** script.
 
 ---
 
-## 📂 Project Structure
+
+## 🛠 Requirements
+- **Python 3.8+** (Python 3.12 recommended)
+- A terminal that supports **UTF-8** encoding to display Tigrinya correctly.
+
+---
+
+## 🚀 Usage
+Run the program from your terminal:
+
+```bash
+python bahre_hasab.py
+
